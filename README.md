@@ -1,34 +1,44 @@
 # .NET Multi-platform App UI (.NET MAUI)
 
-[![Build Status](https://dev.azure.com/xamarin/public/_apis/build/status/MAUI-public?repoName=dotnet%2Fmaui&branchName=main&label=Public)](https://dev.azure.com/xamarin/public/_build/latest?definitionId=57&repoName=dotnet%2Fmaui&branchName=main) [![Build Status](https://devdiv.visualstudio.com/DevDiv/_apis/build/status/MAUI?repoName=dotnet%2Fmaui&branchName=main&label=Private)](https://devdiv.visualstudio.com/DevDiv/_build/latest?definitionId=13330&repoName=dotnet%2Fmaui&branchName=main)
+[![Public Build Status](https://dev.azure.com/xamarin/public/_apis/build/status/MAUI-public?repoName=dotnet%2Fmaui&branchName=main&label=Public)](https://dev.azure.com/xamarin/public/_build/latest?definitionId=57&repoName=dotnet%2Fmaui&branchName=main) 
+[![Private Build Status](https://devdiv.visualstudio.com/DevDiv/_apis/build/status/MAUI?repoName=dotnet%2Fmaui&branchName=main&label=Private)](https://devdiv.visualstudio.com/DevDiv/_build/latest?definitionId=13330&repoName=dotnet%2Fmaui&branchName=main)
 
-[.NET Multi-platform App UI (.NET MAUI)](https://dotnet.microsoft.com/en-us/apps/maui) is a cross-platform framework for creating mobile and desktop apps with C# and XAML. Using .NET MAUI, you can develop apps that can run on Android, iOS, iPadOS, macOS, and Windows from a single shared codebase.
+[.NET Multi-platform App UI (.NET MAUI)](https://dotnet.microsoft.com/en-us/apps/maui) is a cross-platform framework for creating mobile and desktop applications using C# and XAML. With .NET MAUI, you can develop apps that run on Android, iOS, iPadOS, macOS, and Windows from a single shared codebase.
 
-## Getting Started ##
+## Getting Started
 
-* [Install .NET MAUI](https://dot.net/maui)
-* [.NET MAUI Documentation](https://docs.microsoft.com/dotnet/maui)
-* [.NET MAUI Samples](https://github.com/dotnet/maui-samples)
-* [Development Guide](./.github/DEVELOPMENT.md)
+- **[Install .NET MAUI](https://dot.net/maui)**: Follow the setup instructions to prepare your development environment.
+- **[Documentation](https://docs.microsoft.com/dotnet/maui)**: Access comprehensive guides and resources for developers.
+- **[Sample Applications](https://github.com/dotnet/maui-samples)**: Explore example projects to see .NET MAUI in action.
+- **[Development Guide](./.github/DEVELOPMENT.md)**: Learn best practices and advanced techniques for developing with .NET MAUI.
 
 ## Overview
 
-.NET Multi-platform App UI (.NET MAUI) is the evolution of Xamarin.Forms that expands capabilities beyond mobile Android and iOS into desktop apps for Windows and macOS. With .NET MAUI, you can build apps that perform great for any device that runs Windows, macOS, Android, & iOS from a single codebase. Coupled with Visual Studio productivity tools and emulators, .NET and Visual Studio significantly speed up the development process for building apps that target the widest possible set of devices. Use a single development stack that supports the best of breed solutions for all modern workloads with a unified SDK, base class libraries, and toolchain. [Read More](https://docs.microsoft.com/dotnet/maui/what-is-maui)
+.NET MAUI is the evolution of Xamarin.Forms, extending its capabilities beyond mobile to include desktop applications for Windows and macOS. With .NET MAUI, you can build high-performance applications that provide a native experience across all supported devices. The integration with Visual Studio's productivity tools and emulators accelerates your development process while enabling you to target a wide array of devices.
+
+[Learn More](https://docs.microsoft.com/dotnet/maui/what-is-maui)
 
 ![.NET MAUI Weather App on all platforms](Assets/maui-weather-hero-sm.png)
 
 ## Current News
-* November 14, 2023 - [Announcing .NET MAUI in .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8/)
 
-Follow the [.NET MAUI Blog](https://devblogs.microsoft.com/dotnet/category/net-maui/) and visit the [News](https://github.com/dotnet/maui/wiki/News) wiki page for more news and updates.
+- **November 14, 2023**: [Announcing .NET MAUI in .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8/)
 
-## FAQs
+Stay informed by following the [.NET MAUI Blog](https://devblogs.microsoft.com/dotnet/category/net-maui/) and visiting the [News](https://github.com/dotnet/maui/wiki/News) wiki page.
 
-Do you have questions? Do not worry, we have prepared a complete [FAQ](https://github.com/dotnet/maui/wiki/FAQs) answering the most common questions.
+## Frequently Asked Questions (FAQs)
 
-## How to Engage, Contribute, and Give Feedback
+Have questions? Check our complete [FAQ](https://github.com/dotnet/maui/wiki/FAQs) section for answers to common inquiries.
 
-Some of the best ways to [contribute](./.github/CONTRIBUTING.md) are to try things out, file issues, join in design conversations,
-and make pull-requests. Proposals for changes specific to MAUI can be found [here for discussion](https://github.com/dotnet/maui/issues).
+## Engage, Contribute, and Give Feedback
 
-See [CONTRIBUTING](./.github/CONTRIBUTING.md), [CODE-OF-CONDUCT](./.github/CODE_OF_CONDUCT.md) and the [Development Guide](./.github/DEVELOPMENT.md).
+We welcome your contributions! Here’s how you can get involved:
+
+- **Try It Out**: Experiment with .NET MAUI and share your insights.
+- **File Issues**: Report bugs or suggest improvements.
+- **Join Discussions**: Engage in design conversations and community forums.
+- **Make Pull Requests**: Contribute code to help us improve!
+
+For additional information, see our [CONTRIBUTING](./.github/CONTRIBUTING.md), [CODE OF CONDUCT](./.github/CODE_OF_CONDUCT.md), and [Development Guide](./.github/DEVELOPMENT.md).
+
+
